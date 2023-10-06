@@ -5,6 +5,9 @@ while i>=0:
     s=s+string[i]
     i=i-1
 #print(s)
+
+
+print(s)
 if s==string:
     print("string is palindrome")
 else:
