@@ -1,5 +1,6 @@
 n=input()
 sum=0
+#hooha
 if (len(n)==3):
     for i in str(n):
         if i.isdigit():
