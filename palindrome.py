@@ -6,8 +6,7 @@ while i>=0:
     i=i-1
 #print(s)
 
-
-print(s)
+#print(s)
 if s==string:
     print("string is palindrome")
 else:
