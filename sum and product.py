@@ -12,6 +12,3 @@ while(val!='Q'):
             pro=pro*N
             print("product is",pro)
             val = str(input())
-
-
-    
